@@ -16,8 +16,4 @@ This project collects and analyzes UFC fight data to calculate Elo ratings for f
 
 To run this project, you will need Python 3.x installed on your machine. You will also need to install a few dependencies. You can install the required libraries by using the following steps:
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/ufc-elo-ratings.git
-cd ufc-elo-ratings
